@@ -19,3 +19,5 @@ Behind the scenes, I've implemented robust data processing techniques. I've crea
 4️⃣ Rich Variety of Visualizations
 
 The eCommerce Sales Dashboard offers a rich variety of visualizations to cater to different analytical preferences. From dynamic bar charts to insightful pie graphs and everything in between, you'll find the right visualization tools to make your insights crystal clear. These visuals not only enhance the aesthetic appeal of the dashboard but also make it easier for you to interpret and communicate your findings.
+
+
