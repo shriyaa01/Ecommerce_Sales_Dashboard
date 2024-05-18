@@ -2,6 +2,8 @@
 
 Welcome to the Ecommerce Sales Dashboard – your go-to solution for tracking and analyzing interactive data related to your online business. This comprehensive dashboard has been meticulously designed to provide you with a powerful toolset to gain valuable insights into your sales performance.
 
+![Report](report.png)
+
 **Features**
 
 1️⃣ Interactive Design
